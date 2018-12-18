@@ -19,7 +19,7 @@ int MaxElemLOT(BTNode *root){
 	BTNode *temp=nullptr;
 	queue <BTNode*> Q;
 	int m=INT_MIN;
-	if(!root)
+	if(root)
 		Q.push(root);
 	while(!Q.empty()){
 		temp=Q.front();

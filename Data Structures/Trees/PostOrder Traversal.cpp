@@ -25,6 +25,7 @@ void PostOrder(BTNode *root){
 			root=root->left;
 		}
 		while(root==nullptr && !S.empty()){
+			root=S.top();
 			if(root->right==nullptr || root->right==prev){
 				cout<<root->data;
 				prev=root;
