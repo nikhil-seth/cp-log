@@ -5,6 +5,8 @@ template <class T>
 void insertion_sort(T arr[],auto n){
 	// Code for Insertion Sort
 	// Comparing of smallest element & inserting it at exact position in each iteration.
+	// Stable
+	
 	for(auto i=1;i<n;i++){
 		T key=arr[i];
 		auto j=i;

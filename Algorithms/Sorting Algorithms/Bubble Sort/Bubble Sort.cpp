@@ -13,6 +13,7 @@ void bubble_sort(T arr[],int n){
 	// Code for bubble sort.
 	// Heaviest element comes at bottom.
 	// Called bubble sort as bubbles (small elements) come on top.
+	// Stable
 	int pass,swapped=1;
 	for(pass=n-1;pass>=0 && swapped ;pass--){
 		swapped=0;
