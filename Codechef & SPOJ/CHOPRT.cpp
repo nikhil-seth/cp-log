@@ -6,8 +6,18 @@
 #define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);
 using namespace std;
 
-
 int main(){
-	
-	return 0;
+	int t;
+	LL a,b;
+	cin>>t;
+	while(t--){
+		cin>>a>>b;
+		if(a>b)
+			cout<<'>';
+		else if(a<b)
+			cout<<'<';
+		else
+			cout<<'=';
+		cout<<endl;
+	}
 }

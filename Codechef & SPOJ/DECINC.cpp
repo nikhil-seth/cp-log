@@ -6,8 +6,11 @@
 #define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);
 using namespace std;
 
-
 int main(){
-	
-	return 0;
+	int n;
+	cin>>n;
+	if(n%4==0)
+		cout<<n+1;
+	else
+		cout<<n-1;
 }
