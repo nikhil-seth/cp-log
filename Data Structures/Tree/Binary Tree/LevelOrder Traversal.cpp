@@ -8,14 +8,14 @@ struct BTNode{
 };
 
 // Level Order Traversal
-void PostOrder(BTNode *root){
+void LevelOrder(BTNode *root){
 	queue <BTNode*> Q;
 	BTNode *temp=nullptr;
 	if(!root)
 		return;
 	Q.push(root);
 	while(!Q.empty()){
-		if(temp=nullptr)
+		if(temp==nullptr)
 			continue;
 		temp=Q.front();
 		Q.pop();
