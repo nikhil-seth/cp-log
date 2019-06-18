@@ -33,3 +33,32 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/count-number/0
 * https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?ref=self
 * https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?ref=self
+
+
+
+## Linked List :
+
+* https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
+* https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
+* https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1
+* https://practice.geeksforgeeks.org/problems/rearrange-linked-list-in-place/1
+* https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1
+* https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1/?ref=self
+* https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
+* https://practice.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1
+* https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1
+* https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1
+* https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?ref=self
+* https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1
+* https://practice.geeksforgeeks.org/problems/reorder-list/1
+* https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
+* https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1
+* https://practice.geeksforgeeks.org/problems/lucky-alive-person-in-a-circle/0
+* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+* https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
+* https://practice.geeksforgeeks.org/problems/rearrange-a-linked-list/1
+* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+
+## Mathematics.
+
+* https://practice.geeksforgeeks.org/problems/set-bits/0/?ref=self
