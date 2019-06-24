@@ -62,3 +62,9 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 ## Mathematics.
 
 * https://practice.geeksforgeeks.org/problems/set-bits/0/?ref=self
+
+## Stack
+
+* https://practice.geeksforgeeks.org/problems/string-manipulation/0
+* https://practice.geeksforgeeks.org/problems/maximum-difference/1
+* https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
