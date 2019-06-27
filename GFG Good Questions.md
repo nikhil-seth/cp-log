@@ -68,3 +68,23 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/string-manipulation/0
 * https://practice.geeksforgeeks.org/problems/maximum-difference/1
 * https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
+* https://practice.geeksforgeeks.org/problems/stock-span-problem/0
+* https://practice.geeksforgeeks.org/problems/valid-substring/0
+* https://practice.geeksforgeeks.org/problems/longest-valid-parentheses/0/?ref=self
+* (Editorial : https://leetcode.com/articles/longest-valid-parentheses/)
+* https://practice.geeksforgeeks.org/problems/delete-array-elements-which-are-smaller-than-next-or-become-smaller/0
+* https://practice.geeksforgeeks.org/problems/stock-span-problem/0
+* https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0
+* https://practice.geeksforgeeks.org/problems/max-rectangle/1
+* https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0
+
+## Searching & Two-Pointer
+* https://practice.geeksforgeeks.org/problems/find-smallest-missing-in-sorted/0
+* https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/
+* https://practice.geeksforgeeks.org/problems/find-the-closest-number/0
+* https://practice.geeksforgeeks.org/problems/peak-element/
+* https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/
+* https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/
+* https://practice.geeksforgeeks.org/problems/magnet-array-problem/0
+* https://practice.geeksforgeeks.org/problems/smallest-greater-elements-in-whole-array/
+* https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array/0
