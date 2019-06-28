@@ -88,3 +88,16 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/magnet-array-problem/0
 * https://practice.geeksforgeeks.org/problems/smallest-greater-elements-in-whole-array/
 * https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array/0
+* https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0
+* https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+* https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
+* https://practice.geeksforgeeks.org/problems/next-greater-number-set-digits
+* https://practice.geeksforgeeks.org/explore?category%5B%5D=Divide%20and%20Conquer&page=1&sortBy=accuracy
+* https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k/0
+* https://practice.geeksforgeeks.org/problems/majority-element/0
+* https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/
+* https://practice.geeksforgeeks.org/problems/all-numbers-with-specific-difference/0
+* https://practice.geeksforgeeks.org/problems/equalize-the-towers/0
+* https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1
+
+## Trees
