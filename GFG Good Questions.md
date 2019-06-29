@@ -101,3 +101,14 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1
 
 ## Trees
+* https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/full-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/mirror-tree/1
+* https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/postorder-traversal/1
+* https://practice.geeksforgeeks.org/problems/children-sum-parent/1
+* https://practice.geeksforgeeks.org/problems/diagonal-sum-in-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/remove-half-nodes/1
+* https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
+* https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/?ref=self
