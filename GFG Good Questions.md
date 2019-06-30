@@ -112,3 +112,19 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
 * https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
 * https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/?ref=self
+* https://practice.geeksforgeeks.org/problems/leaves-to-dll/1
+* https://practice.geeksforgeeks.org/problems/maximum-path-sum/1
+* https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/vertical-width-of-a-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal
+* https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1
+* https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1
+* https://practice.geeksforgeeks.org/problems/depth-of-node/1
+* https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
+* https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1
+* https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/sum-tree/1
+* https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+* 
