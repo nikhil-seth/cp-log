@@ -127,4 +127,10 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
 * https://practice.geeksforgeeks.org/problems/sum-tree/1
 * https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
-* 
+* https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1
+* https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/construct-tree-1/1
+* https://practice.geeksforgeeks.org/problems/largest-independent-set-problem/1
+* https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1
+* https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1/?ref=self
