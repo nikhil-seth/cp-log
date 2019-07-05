@@ -151,3 +151,11 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/avl-tree-insertion/1
 * https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1
 * https://practice.geeksforgeeks.org/problems/pairs-violating-bst-property/1
+* https://practice.geeksforgeeks.org/problems/convert-ternary-expression-to-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/convert-level-order-traversal-to-bst/1
+* https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1
+* https://practice.geeksforgeeks.org/problems/check-if-subtree/1
+* https://practice.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1
+* https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0
+* https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst/0
