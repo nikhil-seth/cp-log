@@ -1,4 +1,6 @@
 #include<bits/stdc++.h>
+#define fio freopen("input.txt","r",stdin);freopen("output.txt","w",stdout);
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);
 using namespace std;
 void heapify(int arr[],int n,int i) {// To heapify element i.
 	int max_val,l,r;
@@ -28,12 +30,15 @@ void heapsort(int arr[],int n){
 	// This also has tc O(nlogn)
 }
 int main(){
+	fastio
+	fio
 	int n;
 	cin>>n;
+	/*
 	int arr[n];
 	for(auto &x:arr)
 		cin>>x;
 	heapsort(arr,n);
 	for(auto &x:arr)
-		cout<<x<<' ';
+		cout<<x<<' ';*/
 }
