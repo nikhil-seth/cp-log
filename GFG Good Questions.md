@@ -159,3 +159,32 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1
 * https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0
 * https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst/0
+
+#Graphs
+* https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0
+* https://practice.geeksforgeeks.org/problems/your-social-network/0
+* https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0
+* https://practice.geeksforgeeks.org/problems/x-total-shapes/0
+* https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
+* https://practice.geeksforgeeks.org/problems/rotten-oranges/0
+* https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/1
+* https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+* https://practice.geeksforgeeks.org/problems/euler-circuit-and-path/1
+* https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+* https://practice.geeksforgeeks.org/problems/minimum-swaps/1
+* https://practice.geeksforgeeks.org/problems/euler-circuit-in-a-directed-graph/1
+* https://practice.geeksforgeeks.org/problems/knight-walk/0
+* https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1/?ref=self
+* https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/?ref=self
+* https://practice.geeksforgeeks.org/problems/divisibility-tree/0
+* https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0
+* https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0
+* https://practice.geeksforgeeks.org/problems/stepping-numbers/0
+* https://practice.geeksforgeeks.org/problems/path-of-greater-than-equal-to-k-length/0
+* https://practice.geeksforgeeks.org/problems/bipartite-graph/1
+* https://practice.geeksforgeeks.org/problems/kill-captain-america/0
+* https://practice.geeksforgeeks.org/problems/word-boggle/0
+* https://practice.geeksforgeeks.org/problems/hamiltonian-path/0
+* https://practice.geeksforgeeks.org/problems/circle-of-strings/0
+* https://practice.geeksforgeeks.org/problems/minimum-cost-path/0
+* https://practice.geeksforgeeks.org/problems/alien-dictionary/1
