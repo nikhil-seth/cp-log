@@ -188,3 +188,35 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/circle-of-strings/0
 * https://practice.geeksforgeeks.org/problems/minimum-cost-path/0
 * https://practice.geeksforgeeks.org/problems/alien-dictionary/1
+
+## Recursion & Backtracking.
+* https://practice.geeksforgeeks.org/problems/help-the-old-man/0
+* https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+* https://practice.geeksforgeeks.org/problems/n-queen-problem/0
+* https://practice.geeksforgeeks.org/problems/m-coloring-problem/0
+* https://practice.geeksforgeeks.org/problems/hamiltonian-path/0
+* https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0/?ref=self
+* https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0
+* https://practice.geeksforgeeks.org/problems/black-and-white/0 (Read Comments for O(1) Solution)
+* https://practice.geeksforgeeks.org/problems/number-of-paths/0
+* https://practice.geeksforgeeks.org/problems/pascal-triangle/0
+* https://practice.geeksforgeeks.org/problems/print-pattern/0
+* https://practice.geeksforgeeks.org/problems/combination-sum-part-2/0
+* https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0
+* https://practice.geeksforgeeks.org/problems/combination-sum/0
+* https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1
+* https://practice.geeksforgeeks.org/problems/subsets/0
+
+## Greedy, DP, D&C
+* https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0
+* https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0
+* https://practice.geeksforgeeks.org/problems/huffman-encoding/0
+* https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
+* https://practice.geeksforgeeks.org/problems/coin-piles/0
+* https://practice.geeksforgeeks.org/problems/swap-and-maximize/0
+* https://practice.geeksforgeeks.org/problems/smallest-number/0
+* https://practice.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island/0
+* https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0(IMP)
+* https://practice.geeksforgeeks.org/problems/minimum-platforms/0
+* https://practice.geeksforgeeks.org/problems/minimize-the-heights/0
+(IMP)
