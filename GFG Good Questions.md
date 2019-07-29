@@ -220,3 +220,17 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/minimum-platforms/0
 * https://practice.geeksforgeeks.org/problems/minimize-the-heights/0
 (IMP)
+* https://practice.geeksforgeeks.org/problems/inversion-of-array/0
+* https://practice.geeksforgeeks.org/problems/ugly-numbers/0
+* https://practice.geeksforgeeks.org/problems/coin-change/0
+* https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0
+* https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
+* https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0
+* https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0
+* https://leetcode.com/problems/largest-divisible-subset/
+* https://practice.geeksforgeeks.org/problems/cutted-segments/0
+* https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/
+* https://practice.geeksforgeeks.org/problems/count-even-length/0
+* https://practice.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string/0
+* https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
+* https://practice.geeksforgeeks.org/problems/edit-distance/0
