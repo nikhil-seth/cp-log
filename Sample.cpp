@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define LL long long
+#define ll long long
 #define FOR(i,a,b) for(auto i=(a);i<=(b);i++)
 #define elif else if
 #define FORA(x,arr) for(auto &x:arr)
