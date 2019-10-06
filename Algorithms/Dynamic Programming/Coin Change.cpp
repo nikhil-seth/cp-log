@@ -1,4 +1,4 @@
-// Friend pairing Problem : https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0
+// https://practice.geeksforgeeks.org/problems/coin-change/0
 #include<bits/stdc++.h>
 #define FOR(i,a,b) for(auto i=(a);i<=(b);i++)
 #define elif else if
@@ -12,17 +12,20 @@ int main(){
 	fastio
 	int t;
 	cin>>t;
-	ll dp[101];
-	dp[0]=0;
-	dp[1]=1;
-	dp[2]=2;
-	for(int i=3;i<=100;i++){
-	   dp[i]=(dp[i-2]*((i-1)%mod1))%mod1;
-	   dp[i]=(dp[i]+dp[i-1])%mod1;
-	}
 	while(t--){
-	    int n;
+	    int n,m;
+	    cin>>m;
+	    int c[m];
+	    for(int i=0;i<m;i++)
+	        cin>>c[i];
 	    cin>>n;
+	    int dp[n+1];
+	    memset(dp,0,sizeof(dp));
+	    dp[0]=1;
+	    for(int i=0;i<m;i++){
+	        for(int j=c[i];j<=n;j++)
+	            dp[j]=dp[j]+dp[j-c[i]];
+	    }
 	    cout<<dp[n]<<endl;
 	}
 }

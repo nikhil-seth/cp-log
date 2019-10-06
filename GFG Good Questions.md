@@ -5,8 +5,7 @@
 * https://practice.geeksforgeeks.org/problems/sum-of-bit-differences/0
 * https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0
 * https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
-* https://practice.geeksforgeeks.org/problems/
-sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
+* https://practice.geeksforgeeks.org/problems/sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/pairs-which-are-divisible-by-4/0
 * https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum/0
 * https://practice.geeksforgeeks.org/problems/max-value-after-m-range-operation/0
@@ -33,8 +32,6 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/count-number/0
 * https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?ref=self
 * https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?ref=self
-
-
 
 ## Linked List :
 
@@ -68,8 +65,6 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/string-manipulation/0
 * https://practice.geeksforgeeks.org/problems/maximum-difference/1
 * https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
-* https://practice.geeksforgeeks.org/problems/stock-span-problem/0
-* https://practice.geeksforgeeks.org/problems/valid-substring/0
 * https://practice.geeksforgeeks.org/problems/longest-valid-parentheses/0/?ref=self
 * (Editorial : https://leetcode.com/articles/longest-valid-parentheses/)
 * https://practice.geeksforgeeks.org/problems/delete-array-elements-which-are-smaller-than-next-or-become-smaller/0
@@ -80,19 +75,18 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 
 ## Searching & Two-Pointer
 * https://practice.geeksforgeeks.org/problems/find-smallest-missing-in-sorted/0
-* https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/
-* https://practice.geeksforgeeks.org/problems/find-the-closest-number/0
-* https://practice.geeksforgeeks.org/problems/peak-element/
-* https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/
-* https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/
+* https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
+* https://practice.geeksforgeeks.org/problems/peak-element/1
+* https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0
+* https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/1
 * https://practice.geeksforgeeks.org/problems/magnet-array-problem/0
 * https://practice.geeksforgeeks.org/problems/smallest-greater-elements-in-whole-array/
 * https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array/0
 * https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0
 * https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+* https://practice.geeksforgeeks.org/problems/subarray-range-with-given-sum/0
 * https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
 * https://practice.geeksforgeeks.org/problems/next-greater-number-set-digits
-* https://practice.geeksforgeeks.org/explore?category%5B%5D=Divide%20and%20Conquer&page=1&sortBy=accuracy
 * https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k/0
 * https://practice.geeksforgeeks.org/problems/majority-element/0
 * https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/
@@ -111,7 +105,6 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/remove-half-nodes/1
 * https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
 * https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
-* https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/?ref=self
 * https://practice.geeksforgeeks.org/problems/leaves-to-dll/1
 * https://practice.geeksforgeeks.org/problems/maximum-path-sum/1
 * https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
@@ -120,6 +113,7 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal
 * https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1
 * https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+
 * https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1
 * https://practice.geeksforgeeks.org/problems/depth-of-node/1
 * https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
@@ -160,7 +154,7 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0
 * https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst/0
 
-#Graphs
+## Graphs
 * https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0
 * https://practice.geeksforgeeks.org/problems/your-social-network/0
 * https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0
@@ -216,10 +210,9 @@ sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers/0
 * https://practice.geeksforgeeks.org/problems/swap-and-maximize/0
 * https://practice.geeksforgeeks.org/problems/smallest-number/0
 * https://practice.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island/0
-* https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0(IMP)
+* https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0 (IMP)
 * https://practice.geeksforgeeks.org/problems/minimum-platforms/0
-* https://practice.geeksforgeeks.org/problems/minimize-the-heights/0
-(IMP)
+* https://practice.geeksforgeeks.org/problems/minimize-the-heights/0 (IMP)
 * https://practice.geeksforgeeks.org/problems/inversion-of-array/0
 * https://practice.geeksforgeeks.org/problems/ugly-numbers/0
 * https://practice.geeksforgeeks.org/problems/coin-change/0
