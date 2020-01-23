@@ -66,7 +66,7 @@ void DelNode(struct ListNode **head,int position){			// Deletes Node
 		while(prev->next->next!=nullptr){
 			if(k==1)
 				break;
-			k--;
+			k--;	
 			prev=prev->next;
 		}
 		if(k>1){

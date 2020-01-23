@@ -60,7 +60,7 @@
 
 * https://practice.geeksforgeeks.org/problems/set-bits/0/?ref=self
 
-## Stack
+## Stacks
 
 * https://practice.geeksforgeeks.org/problems/string-manipulation/0
 * https://practice.geeksforgeeks.org/problems/maximum-difference/1
