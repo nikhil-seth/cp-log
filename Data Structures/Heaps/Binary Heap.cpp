@@ -18,7 +18,7 @@ class Heap{
 		return x>=heap_size?-1:x;
 	}
 	T right(T x){
-		x=2*x+1;
+		x=2*x+2;
 		return x>=heap_size?-1:x;
 	}
 	void PercolateDown(T i){
